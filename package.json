@@ -1,0 +1,14 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "Bankist",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass  scss/main.scss  ./dist/css/style.css -w "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
